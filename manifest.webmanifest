@@ -1,0 +1,23 @@
+{
+  "name": "Ma Sói - Quản trò",
+  "short_name": "Ma Sói",
+  "description": "Chơi board game Ma Sói (Werewolf) online cùng bạn bè",
+  "lang": "vi",
+  "display": "standalone",
+  "background_color": "#1a1228",
+  "theme_color": "#1a1228",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
